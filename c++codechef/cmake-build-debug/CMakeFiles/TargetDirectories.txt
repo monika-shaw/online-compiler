@@ -1,0 +1,6 @@
+D:/c++codechef/cmake-build-debug/CMakeFiles/Cabs.dir
+D:/c++codechef/cmake-build-debug/CMakeFiles/VolumeControl.dir
+D:/c++codechef/cmake-build-debug/CMakeFiles/Temp.dir
+D:/c++codechef/cmake-build-debug/CMakeFiles/example.dir
+D:/c++codechef/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c++codechef/cmake-build-debug/CMakeFiles/rebuild_cache.dir
