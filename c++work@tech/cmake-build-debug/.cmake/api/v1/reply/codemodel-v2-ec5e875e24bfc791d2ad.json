@@ -45,7 +45,16 @@
 						27,
 						28,
 						29,
-						30
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39
 					]
 				}
 			],
@@ -90,7 +99,16 @@
 						27,
 						28,
 						29,
-						30
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39
 					]
 				}
 			],
@@ -126,6 +144,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "BaseSalary::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BaseSalary-Debug-c5e3e22833869cbb486c.json",
+					"name" : "BaseSalary",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "DigitSum::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-DigitSum-Debug-bab21432e00776dc8791.json",
 					"name" : "DigitSum",
@@ -147,6 +172,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "Fibonacci::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fibonacci-Debug-a194edc5b407b9b14073.json",
+					"name" : "Fibonacci",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "FileHandling::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-FileHandling-Debug-0eda8296ac13fbd068a0.json",
 					"name" : "FileHandling",
@@ -154,9 +186,23 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "Guess::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Guess-Debug-59463002f1fe6a9e898f.json",
+					"name" : "Guess",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "HappyBirthday::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-HappyBirthday-Debug-58b36931ba60ae8a134d.json",
 					"name" : "HappyBirthday",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HighFever::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HighFever-Debug-5a0b2f809ecd3e5d3d83.json",
+					"name" : "HighFever",
 					"projectIndex" : 0
 				},
 				{
@@ -217,6 +263,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "Sorted::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sorted-Debug-a4338150e67bfcd01681.json",
+					"name" : "Sorted",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "SquareNum::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-SquareNum-Debug-6f791da4a8169357d3b0.json",
 					"name" : "SquareNum",
@@ -252,6 +305,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "Swap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Swap-Debug-1e895657eef5d05eaf54.json",
+					"name" : "Swap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "Table::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Table-Debug-d03cbe36347e758874d8.json",
 					"name" : "Table",
@@ -266,9 +326,23 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "ToggleCase::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ToggleCase-Debug-179b301669a1f9163167.json",
+					"name" : "ToggleCase",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "Triangle::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Triangle-Debug-dec76770eac3b7a9a323.json",
 					"name" : "Triangle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UpperCase::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UpperCase-Debug-eba5e001df07fa017b2b.json",
+					"name" : "UpperCase",
 					"projectIndex" : 0
 				},
 				{
@@ -308,6 +382,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "weather::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-weather-Debug-16b6483be045ccea58c2.json",
+					"name" : "weather",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "wordinsentence::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-wordinsentence-Debug-c7870c32d14f9053f83a.json",
 					"name" : "wordinsentence",
@@ -319,8 +400,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Online-Compiler/c++work@tech/cmake-build-debug",
-		"source" : "D:/Online-Compiler/c++work@tech"
+		"build" : "D:/online-compiler/c++work@tech/cmake-build-debug",
+		"source" : "D:/online-compiler/c++work@tech"
 	},
 	"version" : 
 	{

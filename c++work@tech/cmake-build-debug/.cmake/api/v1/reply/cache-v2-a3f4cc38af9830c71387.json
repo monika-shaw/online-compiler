@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Online-Compiler/c++work@tech/cmake-build-debug"
+			"value" : "d:/online-compiler/c++work@tech/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Online-Compiler/c++work@tech/cmake-build-debug"
+			"value" : "D:/online-compiler/c++work@tech/cmake-build-debug"
 		},
 		{
 			"name" : "c__work_tech_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Online-Compiler/c++work@tech"
+			"value" : "D:/online-compiler/c++work@tech"
 		}
 	],
 	"kind" : "cache",

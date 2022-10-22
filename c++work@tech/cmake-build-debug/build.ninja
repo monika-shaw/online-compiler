@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = D$:/Online-Compiler/c++work@tech/cmake-build-debug/
+cmake_ninja_workdir = D$:/online-compiler/c++work@tech/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target PrintDigits
 
@@ -49,7 +49,7 @@ cmake_ninja_workdir = D$:/Online-Compiler/c++work@tech/cmake-build-debug/
 
 build cmake_object_order_depends_target_PrintDigits: phony || CMakeFiles/PrintDigits.dir
 
-build CMakeFiles/PrintDigits.dir/PrintDigits.cpp.obj: CXX_COMPILER__PrintDigits_Debug D$:/Online-Compiler/c++work@tech/PrintDigits.cpp || cmake_object_order_depends_target_PrintDigits
+build CMakeFiles/PrintDigits.dir/PrintDigits.cpp.obj: CXX_COMPILER__PrintDigits_Debug D$:/online-compiler/c++work@tech/PrintDigits.cpp || cmake_object_order_depends_target_PrintDigits
   DEP_FILE = CMakeFiles\PrintDigits.dir\PrintDigits.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\PrintDigits.dir
@@ -82,7 +82,7 @@ build PrintDigits.exe: CXX_EXECUTABLE_LINKER__PrintDigits_Debug CMakeFiles/Print
 
 build cmake_object_order_depends_target_practice: phony || CMakeFiles/practice.dir
 
-build CMakeFiles/practice.dir/practice.cpp.obj: CXX_COMPILER__practice_Debug D$:/Online-Compiler/c++work@tech/practice.cpp || cmake_object_order_depends_target_practice
+build CMakeFiles/practice.dir/practice.cpp.obj: CXX_COMPILER__practice_Debug D$:/online-compiler/c++work@tech/practice.cpp || cmake_object_order_depends_target_practice
   DEP_FILE = CMakeFiles\practice.dir\practice.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\practice.dir
@@ -115,7 +115,7 @@ build practice.exe: CXX_EXECUTABLE_LINKER__practice_Debug CMakeFiles/practice.di
 
 build cmake_object_order_depends_target_DivisibleBySix: phony || CMakeFiles/DivisibleBySix.dir
 
-build CMakeFiles/DivisibleBySix.dir/DivisibleBySix.cpp.obj: CXX_COMPILER__DivisibleBySix_Debug D$:/Online-Compiler/c++work@tech/DivisibleBySix.cpp || cmake_object_order_depends_target_DivisibleBySix
+build CMakeFiles/DivisibleBySix.dir/DivisibleBySix.cpp.obj: CXX_COMPILER__DivisibleBySix_Debug D$:/online-compiler/c++work@tech/DivisibleBySix.cpp || cmake_object_order_depends_target_DivisibleBySix
   DEP_FILE = CMakeFiles\DivisibleBySix.dir\DivisibleBySix.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\DivisibleBySix.dir
@@ -148,7 +148,7 @@ build DivisibleBySix.exe: CXX_EXECUTABLE_LINKER__DivisibleBySix_Debug CMakeFiles
 
 build cmake_object_order_depends_target_TemperatureConversion: phony || CMakeFiles/TemperatureConversion.dir
 
-build CMakeFiles/TemperatureConversion.dir/TemperatureConversion.cpp.obj: CXX_COMPILER__TemperatureConversion_Debug D$:/Online-Compiler/c++work@tech/TemperatureConversion.cpp || cmake_object_order_depends_target_TemperatureConversion
+build CMakeFiles/TemperatureConversion.dir/TemperatureConversion.cpp.obj: CXX_COMPILER__TemperatureConversion_Debug D$:/online-compiler/c++work@tech/TemperatureConversion.cpp || cmake_object_order_depends_target_TemperatureConversion
   DEP_FILE = CMakeFiles\TemperatureConversion.dir\TemperatureConversion.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\TemperatureConversion.dir
@@ -181,7 +181,7 @@ build TemperatureConversion.exe: CXX_EXECUTABLE_LINKER__TemperatureConversion_De
 
 build cmake_object_order_depends_target_7up7down: phony || CMakeFiles/7up7down.dir
 
-build CMakeFiles/7up7down.dir/7up7down.cpp.obj: CXX_COMPILER__7up7down_Debug D$:/Online-Compiler/c++work@tech/7up7down.cpp || cmake_object_order_depends_target_7up7down
+build CMakeFiles/7up7down.dir/7up7down.cpp.obj: CXX_COMPILER__7up7down_Debug D$:/online-compiler/c++work@tech/7up7down.cpp || cmake_object_order_depends_target_7up7down
   DEP_FILE = CMakeFiles\7up7down.dir\7up7down.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\7up7down.dir
@@ -214,7 +214,7 @@ build 7up7down.exe: CXX_EXECUTABLE_LINKER__7up7down_Debug CMakeFiles/7up7down.di
 
 build cmake_object_order_depends_target_Triangle: phony || CMakeFiles/Triangle.dir
 
-build CMakeFiles/Triangle.dir/Triangle.cpp.obj: CXX_COMPILER__Triangle_Debug D$:/Online-Compiler/c++work@tech/Triangle.cpp || cmake_object_order_depends_target_Triangle
+build CMakeFiles/Triangle.dir/Triangle.cpp.obj: CXX_COMPILER__Triangle_Debug D$:/online-compiler/c++work@tech/Triangle.cpp || cmake_object_order_depends_target_Triangle
   DEP_FILE = CMakeFiles\Triangle.dir\Triangle.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Triangle.dir
@@ -247,7 +247,7 @@ build Triangle.exe: CXX_EXECUTABLE_LINKER__Triangle_Debug CMakeFiles/Triangle.di
 
 build cmake_object_order_depends_target_HappyBirthday: phony || CMakeFiles/HappyBirthday.dir
 
-build CMakeFiles/HappyBirthday.dir/HappyBirthday.cpp.obj: CXX_COMPILER__HappyBirthday_Debug D$:/Online-Compiler/c++work@tech/HappyBirthday.cpp || cmake_object_order_depends_target_HappyBirthday
+build CMakeFiles/HappyBirthday.dir/HappyBirthday.cpp.obj: CXX_COMPILER__HappyBirthday_Debug D$:/online-compiler/c++work@tech/HappyBirthday.cpp || cmake_object_order_depends_target_HappyBirthday
   DEP_FILE = CMakeFiles\HappyBirthday.dir\HappyBirthday.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\HappyBirthday.dir
@@ -280,7 +280,7 @@ build HappyBirthday.exe: CXX_EXECUTABLE_LINKER__HappyBirthday_Debug CMakeFiles/H
 
 build cmake_object_order_depends_target_1characterLine: phony || CMakeFiles/1characterLine.dir
 
-build CMakeFiles/1characterLine.dir/1characterLine.cpp.obj: CXX_COMPILER__1characterLine_Debug D$:/Online-Compiler/c++work@tech/1characterLine.cpp || cmake_object_order_depends_target_1characterLine
+build CMakeFiles/1characterLine.dir/1characterLine.cpp.obj: CXX_COMPILER__1characterLine_Debug D$:/online-compiler/c++work@tech/1characterLine.cpp || cmake_object_order_depends_target_1characterLine
   DEP_FILE = CMakeFiles\1characterLine.dir\1characterLine.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\1characterLine.dir
@@ -313,7 +313,7 @@ build 1characterLine.exe: CXX_EXECUTABLE_LINKER__1characterLine_Debug CMakeFiles
 
 build cmake_object_order_depends_target_reverse: phony || CMakeFiles/reverse.dir
 
-build CMakeFiles/reverse.dir/reverse.cpp.obj: CXX_COMPILER__reverse_Debug D$:/Online-Compiler/c++work@tech/reverse.cpp || cmake_object_order_depends_target_reverse
+build CMakeFiles/reverse.dir/reverse.cpp.obj: CXX_COMPILER__reverse_Debug D$:/online-compiler/c++work@tech/reverse.cpp || cmake_object_order_depends_target_reverse
   DEP_FILE = CMakeFiles\reverse.dir\reverse.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\reverse.dir
@@ -346,7 +346,7 @@ build reverse.exe: CXX_EXECUTABLE_LINKER__reverse_Debug CMakeFiles/reverse.dir/r
 
 build cmake_object_order_depends_target_2CharacterLine: phony || CMakeFiles/2CharacterLine.dir
 
-build CMakeFiles/2CharacterLine.dir/2CharacterLine.cpp.obj: CXX_COMPILER__2CharacterLine_Debug D$:/Online-Compiler/c++work@tech/2CharacterLine.cpp || cmake_object_order_depends_target_2CharacterLine
+build CMakeFiles/2CharacterLine.dir/2CharacterLine.cpp.obj: CXX_COMPILER__2CharacterLine_Debug D$:/online-compiler/c++work@tech/2CharacterLine.cpp || cmake_object_order_depends_target_2CharacterLine
   DEP_FILE = CMakeFiles\2CharacterLine.dir\2CharacterLine.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\2CharacterLine.dir
@@ -379,7 +379,7 @@ build 2CharacterLine.exe: CXX_EXECUTABLE_LINKER__2CharacterLine_Debug CMakeFiles
 
 build cmake_object_order_depends_target_palindrome: phony || CMakeFiles/palindrome.dir
 
-build CMakeFiles/palindrome.dir/palindrome.cpp.obj: CXX_COMPILER__palindrome_Debug D$:/Online-Compiler/c++work@tech/palindrome.cpp || cmake_object_order_depends_target_palindrome
+build CMakeFiles/palindrome.dir/palindrome.cpp.obj: CXX_COMPILER__palindrome_Debug D$:/online-compiler/c++work@tech/palindrome.cpp || cmake_object_order_depends_target_palindrome
   DEP_FILE = CMakeFiles\palindrome.dir\palindrome.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\palindrome.dir
@@ -412,7 +412,7 @@ build palindrome.exe: CXX_EXECUTABLE_LINKER__palindrome_Debug CMakeFiles/palindr
 
 build cmake_object_order_depends_target_Table: phony || CMakeFiles/Table.dir
 
-build CMakeFiles/Table.dir/Table.cpp.obj: CXX_COMPILER__Table_Debug D$:/Online-Compiler/c++work@tech/Table.cpp || cmake_object_order_depends_target_Table
+build CMakeFiles/Table.dir/Table.cpp.obj: CXX_COMPILER__Table_Debug D$:/online-compiler/c++work@tech/Table.cpp || cmake_object_order_depends_target_Table
   DEP_FILE = CMakeFiles\Table.dir\Table.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Table.dir
@@ -445,7 +445,7 @@ build Table.exe: CXX_EXECUTABLE_LINKER__Table_Debug CMakeFiles/Table.dir/Table.c
 
 build cmake_object_order_depends_target_Star: phony || CMakeFiles/Star.dir
 
-build CMakeFiles/Star.dir/Star.cpp.obj: CXX_COMPILER__Star_Debug D$:/Online-Compiler/c++work@tech/Star.cpp || cmake_object_order_depends_target_Star
+build CMakeFiles/Star.dir/Star.cpp.obj: CXX_COMPILER__Star_Debug D$:/online-compiler/c++work@tech/Star.cpp || cmake_object_order_depends_target_Star
   DEP_FILE = CMakeFiles\Star.dir\Star.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Star.dir
@@ -478,7 +478,7 @@ build Star.exe: CXX_EXECUTABLE_LINKER__Star_Debug CMakeFiles/Star.dir/Star.cpp.o
 
 build cmake_object_order_depends_target_star2: phony || CMakeFiles/star2.dir
 
-build CMakeFiles/star2.dir/star2.cpp.obj: CXX_COMPILER__star2_Debug D$:/Online-Compiler/c++work@tech/star2.cpp || cmake_object_order_depends_target_star2
+build CMakeFiles/star2.dir/star2.cpp.obj: CXX_COMPILER__star2_Debug D$:/online-compiler/c++work@tech/star2.cpp || cmake_object_order_depends_target_star2
   DEP_FILE = CMakeFiles\star2.dir\star2.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\star2.dir
@@ -511,7 +511,7 @@ build star2.exe: CXX_EXECUTABLE_LINKER__star2_Debug CMakeFiles/star2.dir/star2.c
 
 build cmake_object_order_depends_target_Vowels: phony || CMakeFiles/Vowels.dir
 
-build CMakeFiles/Vowels.dir/Vowels.cpp.obj: CXX_COMPILER__Vowels_Debug D$:/Online-Compiler/c++work@tech/Vowels.cpp || cmake_object_order_depends_target_Vowels
+build CMakeFiles/Vowels.dir/Vowels.cpp.obj: CXX_COMPILER__Vowels_Debug D$:/online-compiler/c++work@tech/Vowels.cpp || cmake_object_order_depends_target_Vowels
   DEP_FILE = CMakeFiles\Vowels.dir\Vowels.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Vowels.dir
@@ -544,7 +544,7 @@ build Vowels.exe: CXX_EXECUTABLE_LINKER__Vowels_Debug CMakeFiles/Vowels.dir/Vowe
 
 build cmake_object_order_depends_target_SquareSum: phony || CMakeFiles/SquareSum.dir
 
-build CMakeFiles/SquareSum.dir/SquareSum.cpp.obj: CXX_COMPILER__SquareSum_Debug D$:/Online-Compiler/c++work@tech/SquareSum.cpp || cmake_object_order_depends_target_SquareSum
+build CMakeFiles/SquareSum.dir/SquareSum.cpp.obj: CXX_COMPILER__SquareSum_Debug D$:/online-compiler/c++work@tech/SquareSum.cpp || cmake_object_order_depends_target_SquareSum
   DEP_FILE = CMakeFiles\SquareSum.dir\SquareSum.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\SquareSum.dir
@@ -577,7 +577,7 @@ build SquareSum.exe: CXX_EXECUTABLE_LINKER__SquareSum_Debug CMakeFiles/SquareSum
 
 build cmake_object_order_depends_target_MidElement: phony || CMakeFiles/MidElement.dir
 
-build CMakeFiles/MidElement.dir/MidElement.cpp.obj: CXX_COMPILER__MidElement_Debug D$:/Online-Compiler/c++work@tech/MidElement.cpp || cmake_object_order_depends_target_MidElement
+build CMakeFiles/MidElement.dir/MidElement.cpp.obj: CXX_COMPILER__MidElement_Debug D$:/online-compiler/c++work@tech/MidElement.cpp || cmake_object_order_depends_target_MidElement
   DEP_FILE = CMakeFiles\MidElement.dir\MidElement.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\MidElement.dir
@@ -610,7 +610,7 @@ build MidElement.exe: CXX_EXECUTABLE_LINKER__MidElement_Debug CMakeFiles/MidElem
 
 build cmake_object_order_depends_target_Leader: phony || CMakeFiles/Leader.dir
 
-build CMakeFiles/Leader.dir/Leader.cpp.obj: CXX_COMPILER__Leader_Debug D$:/Online-Compiler/c++work@tech/Leader.cpp || cmake_object_order_depends_target_Leader
+build CMakeFiles/Leader.dir/Leader.cpp.obj: CXX_COMPILER__Leader_Debug D$:/online-compiler/c++work@tech/Leader.cpp || cmake_object_order_depends_target_Leader
   DEP_FILE = CMakeFiles\Leader.dir\Leader.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Leader.dir
@@ -643,7 +643,7 @@ build Leader.exe: CXX_EXECUTABLE_LINKER__Leader_Debug CMakeFiles/Leader.dir/Lead
 
 build cmake_object_order_depends_target_wordinsentence: phony || CMakeFiles/wordinsentence.dir
 
-build CMakeFiles/wordinsentence.dir/wordinsentence.cpp.obj: CXX_COMPILER__wordinsentence_Debug D$:/Online-Compiler/c++work@tech/wordinsentence.cpp || cmake_object_order_depends_target_wordinsentence
+build CMakeFiles/wordinsentence.dir/wordinsentence.cpp.obj: CXX_COMPILER__wordinsentence_Debug D$:/online-compiler/c++work@tech/wordinsentence.cpp || cmake_object_order_depends_target_wordinsentence
   DEP_FILE = CMakeFiles\wordinsentence.dir\wordinsentence.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\wordinsentence.dir
@@ -676,7 +676,7 @@ build wordinsentence.exe: CXX_EXECUTABLE_LINKER__wordinsentence_Debug CMakeFiles
 
 build cmake_object_order_depends_target_SquareNum: phony || CMakeFiles/SquareNum.dir
 
-build CMakeFiles/SquareNum.dir/SquareNum.cpp.obj: CXX_COMPILER__SquareNum_Debug D$:/Online-Compiler/c++work@tech/SquareNum.cpp || cmake_object_order_depends_target_SquareNum
+build CMakeFiles/SquareNum.dir/SquareNum.cpp.obj: CXX_COMPILER__SquareNum_Debug D$:/online-compiler/c++work@tech/SquareNum.cpp || cmake_object_order_depends_target_SquareNum
   DEP_FILE = CMakeFiles\SquareNum.dir\SquareNum.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\SquareNum.dir
@@ -709,7 +709,7 @@ build SquareNum.exe: CXX_EXECUTABLE_LINKER__SquareNum_Debug CMakeFiles/SquareNum
 
 build cmake_object_order_depends_target_Pastries: phony || CMakeFiles/Pastries.dir
 
-build CMakeFiles/Pastries.dir/Pastries.cpp.obj: CXX_COMPILER__Pastries_Debug D$:/Online-Compiler/c++work@tech/Pastries.cpp || cmake_object_order_depends_target_Pastries
+build CMakeFiles/Pastries.dir/Pastries.cpp.obj: CXX_COMPILER__Pastries_Debug D$:/online-compiler/c++work@tech/Pastries.cpp || cmake_object_order_depends_target_Pastries
   DEP_FILE = CMakeFiles\Pastries.dir\Pastries.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Pastries.dir
@@ -742,7 +742,7 @@ build Pastries.exe: CXX_EXECUTABLE_LINKER__Pastries_Debug CMakeFiles/Pastries.di
 
 build cmake_object_order_depends_target_NotDivisible: phony || CMakeFiles/NotDivisible.dir
 
-build CMakeFiles/NotDivisible.dir/NotDivisible.cpp.obj: CXX_COMPILER__NotDivisible_Debug D$:/Online-Compiler/c++work@tech/NotDivisible.cpp || cmake_object_order_depends_target_NotDivisible
+build CMakeFiles/NotDivisible.dir/NotDivisible.cpp.obj: CXX_COMPILER__NotDivisible_Debug D$:/online-compiler/c++work@tech/NotDivisible.cpp || cmake_object_order_depends_target_NotDivisible
   DEP_FILE = CMakeFiles\NotDivisible.dir\NotDivisible.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\NotDivisible.dir
@@ -775,7 +775,7 @@ build NotDivisible.exe: CXX_EXECUTABLE_LINKER__NotDivisible_Debug CMakeFiles/Not
 
 build cmake_object_order_depends_target_DigitSum: phony || CMakeFiles/DigitSum.dir
 
-build CMakeFiles/DigitSum.dir/DigitSum.cpp.obj: CXX_COMPILER__DigitSum_Debug D$:/Online-Compiler/c++work@tech/DigitSum.cpp || cmake_object_order_depends_target_DigitSum
+build CMakeFiles/DigitSum.dir/DigitSum.cpp.obj: CXX_COMPILER__DigitSum_Debug D$:/online-compiler/c++work@tech/DigitSum.cpp || cmake_object_order_depends_target_DigitSum
   DEP_FILE = CMakeFiles\DigitSum.dir\DigitSum.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\DigitSum.dir
@@ -808,7 +808,7 @@ build DigitSum.exe: CXX_EXECUTABLE_LINKER__DigitSum_Debug CMakeFiles/DigitSum.di
 
 build cmake_object_order_depends_target_Sort: phony || CMakeFiles/Sort.dir
 
-build CMakeFiles/Sort.dir/Sort.cpp.obj: CXX_COMPILER__Sort_Debug D$:/Online-Compiler/c++work@tech/Sort.cpp || cmake_object_order_depends_target_Sort
+build CMakeFiles/Sort.dir/Sort.cpp.obj: CXX_COMPILER__Sort_Debug D$:/online-compiler/c++work@tech/Sort.cpp || cmake_object_order_depends_target_Sort
   DEP_FILE = CMakeFiles\Sort.dir\Sort.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Sort.dir
@@ -841,7 +841,7 @@ build Sort.exe: CXX_EXECUTABLE_LINKER__Sort_Debug CMakeFiles/Sort.dir/Sort.cpp.o
 
 build cmake_object_order_depends_target_FileHandling: phony || CMakeFiles/FileHandling.dir
 
-build CMakeFiles/FileHandling.dir/FileHandling.cpp.obj: CXX_COMPILER__FileHandling_Debug D$:/Online-Compiler/c++work@tech/FileHandling.cpp || cmake_object_order_depends_target_FileHandling
+build CMakeFiles/FileHandling.dir/FileHandling.cpp.obj: CXX_COMPILER__FileHandling_Debug D$:/online-compiler/c++work@tech/FileHandling.cpp || cmake_object_order_depends_target_FileHandling
   DEP_FILE = CMakeFiles\FileHandling.dir\FileHandling.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\FileHandling.dir
@@ -874,7 +874,7 @@ build FileHandling.exe: CXX_EXECUTABLE_LINKER__FileHandling_Debug CMakeFiles/Fil
 
 build cmake_object_order_depends_target_Student: phony || CMakeFiles/Student.dir
 
-build CMakeFiles/Student.dir/Student.cpp.obj: CXX_COMPILER__Student_Debug D$:/Online-Compiler/c++work@tech/Student.cpp || cmake_object_order_depends_target_Student
+build CMakeFiles/Student.dir/Student.cpp.obj: CXX_COMPILER__Student_Debug D$:/online-compiler/c++work@tech/Student.cpp || cmake_object_order_depends_target_Student
   DEP_FILE = CMakeFiles\Student.dir\Student.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Student.dir
@@ -907,7 +907,7 @@ build Student.exe: CXX_EXECUTABLE_LINKER__Student_Debug CMakeFiles/Student.dir/S
 
 build cmake_object_order_depends_target_AjacentZeroes: phony || CMakeFiles/AjacentZeroes.dir
 
-build CMakeFiles/AjacentZeroes.dir/AjacentZeroes.cpp.obj: CXX_COMPILER__AjacentZeroes_Debug D$:/Online-Compiler/c++work@tech/AjacentZeroes.cpp || cmake_object_order_depends_target_AjacentZeroes
+build CMakeFiles/AjacentZeroes.dir/AjacentZeroes.cpp.obj: CXX_COMPILER__AjacentZeroes_Debug D$:/online-compiler/c++work@tech/AjacentZeroes.cpp || cmake_object_order_depends_target_AjacentZeroes
   DEP_FILE = CMakeFiles\AjacentZeroes.dir\AjacentZeroes.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\AjacentZeroes.dir
@@ -940,7 +940,7 @@ build AjacentZeroes.exe: CXX_EXECUTABLE_LINKER__AjacentZeroes_Debug CMakeFiles/A
 
 build cmake_object_order_depends_target_Percentage: phony || CMakeFiles/Percentage.dir
 
-build CMakeFiles/Percentage.dir/Percentage.cpp.obj: CXX_COMPILER__Percentage_Debug D$:/Online-Compiler/c++work@tech/Percentage.cpp || cmake_object_order_depends_target_Percentage
+build CMakeFiles/Percentage.dir/Percentage.cpp.obj: CXX_COMPILER__Percentage_Debug D$:/online-compiler/c++work@tech/Percentage.cpp || cmake_object_order_depends_target_Percentage
   DEP_FILE = CMakeFiles\Percentage.dir\Percentage.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Percentage.dir
@@ -973,7 +973,7 @@ build Percentage.exe: CXX_EXECUTABLE_LINKER__Percentage_Debug CMakeFiles/Percent
 
 build cmake_object_order_depends_target_Factorial: phony || CMakeFiles/Factorial.dir
 
-build CMakeFiles/Factorial.dir/Factorial.cpp.obj: CXX_COMPILER__Factorial_Debug D$:/Online-Compiler/c++work@tech/Factorial.cpp || cmake_object_order_depends_target_Factorial
+build CMakeFiles/Factorial.dir/Factorial.cpp.obj: CXX_COMPILER__Factorial_Debug D$:/online-compiler/c++work@tech/Factorial.cpp || cmake_object_order_depends_target_Factorial
   DEP_FILE = CMakeFiles\Factorial.dir\Factorial.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Factorial.dir
@@ -1006,7 +1006,7 @@ build Factorial.exe: CXX_EXECUTABLE_LINKER__Factorial_Debug CMakeFiles/Factorial
 
 build cmake_object_order_depends_target_ReverseArr: phony || CMakeFiles/ReverseArr.dir
 
-build CMakeFiles/ReverseArr.dir/ReverseArr.cpp.obj: CXX_COMPILER__ReverseArr_Debug D$:/Online-Compiler/c++work@tech/ReverseArr.cpp || cmake_object_order_depends_target_ReverseArr
+build CMakeFiles/ReverseArr.dir/ReverseArr.cpp.obj: CXX_COMPILER__ReverseArr_Debug D$:/online-compiler/c++work@tech/ReverseArr.cpp || cmake_object_order_depends_target_ReverseArr
   DEP_FILE = CMakeFiles\ReverseArr.dir\ReverseArr.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\ReverseArr.dir
@@ -1039,7 +1039,7 @@ build ReverseArr.exe: CXX_EXECUTABLE_LINKER__ReverseArr_Debug CMakeFiles/Reverse
 
 build cmake_object_order_depends_target_StudentRecord: phony || CMakeFiles/StudentRecord.dir
 
-build CMakeFiles/StudentRecord.dir/StudentRecord.cpp.obj: CXX_COMPILER__StudentRecord_Debug D$:/Online-Compiler/c++work@tech/StudentRecord.cpp || cmake_object_order_depends_target_StudentRecord
+build CMakeFiles/StudentRecord.dir/StudentRecord.cpp.obj: CXX_COMPILER__StudentRecord_Debug D$:/online-compiler/c++work@tech/StudentRecord.cpp || cmake_object_order_depends_target_StudentRecord
   DEP_FILE = CMakeFiles\StudentRecord.dir\StudentRecord.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\StudentRecord.dir
@@ -1063,12 +1063,309 @@ build StudentRecord.exe: CXX_EXECUTABLE_LINKER__StudentRecord_Debug CMakeFiles/S
   TARGET_IMPLIB = libStudentRecord.dll.a
   TARGET_PDB = StudentRecord.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target BaseSalary
+
+
+#############################################
+# Order-only phony target for BaseSalary
+
+build cmake_object_order_depends_target_BaseSalary: phony || CMakeFiles/BaseSalary.dir
+
+build CMakeFiles/BaseSalary.dir/BaseSalary.cpp.obj: CXX_COMPILER__BaseSalary_Debug D$:/online-compiler/c++work@tech/BaseSalary.cpp || cmake_object_order_depends_target_BaseSalary
+  DEP_FILE = CMakeFiles\BaseSalary.dir\BaseSalary.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\BaseSalary.dir
+  OBJECT_FILE_DIR = CMakeFiles\BaseSalary.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target BaseSalary
+
+
+#############################################
+# Link the executable BaseSalary.exe
+
+build BaseSalary.exe: CXX_EXECUTABLE_LINKER__BaseSalary_Debug CMakeFiles/BaseSalary.dir/BaseSalary.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\BaseSalary.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = BaseSalary.exe
+  TARGET_IMPLIB = libBaseSalary.dll.a
+  TARGET_PDB = BaseSalary.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Fibonacci
+
+
+#############################################
+# Order-only phony target for Fibonacci
+
+build cmake_object_order_depends_target_Fibonacci: phony || CMakeFiles/Fibonacci.dir
+
+build CMakeFiles/Fibonacci.dir/Fibonacci.cpp.obj: CXX_COMPILER__Fibonacci_Debug D$:/online-compiler/c++work@tech/Fibonacci.cpp || cmake_object_order_depends_target_Fibonacci
+  DEP_FILE = CMakeFiles\Fibonacci.dir\Fibonacci.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Fibonacci.dir
+  OBJECT_FILE_DIR = CMakeFiles\Fibonacci.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Fibonacci
+
+
+#############################################
+# Link the executable Fibonacci.exe
+
+build Fibonacci.exe: CXX_EXECUTABLE_LINKER__Fibonacci_Debug CMakeFiles/Fibonacci.dir/Fibonacci.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Fibonacci.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Fibonacci.exe
+  TARGET_IMPLIB = libFibonacci.dll.a
+  TARGET_PDB = Fibonacci.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target UpperCase
+
+
+#############################################
+# Order-only phony target for UpperCase
+
+build cmake_object_order_depends_target_UpperCase: phony || CMakeFiles/UpperCase.dir
+
+build CMakeFiles/UpperCase.dir/UpperCase.cpp.obj: CXX_COMPILER__UpperCase_Debug D$:/online-compiler/c++work@tech/UpperCase.cpp || cmake_object_order_depends_target_UpperCase
+  DEP_FILE = CMakeFiles\UpperCase.dir\UpperCase.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\UpperCase.dir
+  OBJECT_FILE_DIR = CMakeFiles\UpperCase.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target UpperCase
+
+
+#############################################
+# Link the executable UpperCase.exe
+
+build UpperCase.exe: CXX_EXECUTABLE_LINKER__UpperCase_Debug CMakeFiles/UpperCase.dir/UpperCase.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\UpperCase.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = UpperCase.exe
+  TARGET_IMPLIB = libUpperCase.dll.a
+  TARGET_PDB = UpperCase.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ToggleCase
+
+
+#############################################
+# Order-only phony target for ToggleCase
+
+build cmake_object_order_depends_target_ToggleCase: phony || CMakeFiles/ToggleCase.dir
+
+build CMakeFiles/ToggleCase.dir/ToggleCase.cpp.obj: CXX_COMPILER__ToggleCase_Debug D$:/online-compiler/c++work@tech/ToggleCase.cpp || cmake_object_order_depends_target_ToggleCase
+  DEP_FILE = CMakeFiles\ToggleCase.dir\ToggleCase.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\ToggleCase.dir
+  OBJECT_FILE_DIR = CMakeFiles\ToggleCase.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ToggleCase
+
+
+#############################################
+# Link the executable ToggleCase.exe
+
+build ToggleCase.exe: CXX_EXECUTABLE_LINKER__ToggleCase_Debug CMakeFiles/ToggleCase.dir/ToggleCase.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ToggleCase.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ToggleCase.exe
+  TARGET_IMPLIB = libToggleCase.dll.a
+  TARGET_PDB = ToggleCase.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Sorted
+
+
+#############################################
+# Order-only phony target for Sorted
+
+build cmake_object_order_depends_target_Sorted: phony || CMakeFiles/Sorted.dir
+
+build CMakeFiles/Sorted.dir/Sorted.cpp.obj: CXX_COMPILER__Sorted_Debug D$:/online-compiler/c++work@tech/Sorted.cpp || cmake_object_order_depends_target_Sorted
+  DEP_FILE = CMakeFiles\Sorted.dir\Sorted.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Sorted.dir
+  OBJECT_FILE_DIR = CMakeFiles\Sorted.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Sorted
+
+
+#############################################
+# Link the executable Sorted.exe
+
+build Sorted.exe: CXX_EXECUTABLE_LINKER__Sorted_Debug CMakeFiles/Sorted.dir/Sorted.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Sorted.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Sorted.exe
+  TARGET_IMPLIB = libSorted.dll.a
+  TARGET_PDB = Sorted.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Swap
+
+
+#############################################
+# Order-only phony target for Swap
+
+build cmake_object_order_depends_target_Swap: phony || CMakeFiles/Swap.dir
+
+build CMakeFiles/Swap.dir/Swap.cpp.obj: CXX_COMPILER__Swap_Debug D$:/online-compiler/c++work@tech/Swap.cpp || cmake_object_order_depends_target_Swap
+  DEP_FILE = CMakeFiles\Swap.dir\Swap.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Swap.dir
+  OBJECT_FILE_DIR = CMakeFiles\Swap.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Swap
+
+
+#############################################
+# Link the executable Swap.exe
+
+build Swap.exe: CXX_EXECUTABLE_LINKER__Swap_Debug CMakeFiles/Swap.dir/Swap.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Swap.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Swap.exe
+  TARGET_IMPLIB = libSwap.dll.a
+  TARGET_PDB = Swap.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Guess
+
+
+#############################################
+# Order-only phony target for Guess
+
+build cmake_object_order_depends_target_Guess: phony || CMakeFiles/Guess.dir
+
+build CMakeFiles/Guess.dir/Guess.cpp.obj: CXX_COMPILER__Guess_Debug D$:/online-compiler/c++work@tech/Guess.cpp || cmake_object_order_depends_target_Guess
+  DEP_FILE = CMakeFiles\Guess.dir\Guess.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Guess.dir
+  OBJECT_FILE_DIR = CMakeFiles\Guess.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Guess
+
+
+#############################################
+# Link the executable Guess.exe
+
+build Guess.exe: CXX_EXECUTABLE_LINKER__Guess_Debug CMakeFiles/Guess.dir/Guess.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Guess.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Guess.exe
+  TARGET_IMPLIB = libGuess.dll.a
+  TARGET_PDB = Guess.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target weather
+
+
+#############################################
+# Order-only phony target for weather
+
+build cmake_object_order_depends_target_weather: phony || CMakeFiles/weather.dir
+
+build CMakeFiles/weather.dir/weather.cpp.obj: CXX_COMPILER__weather_Debug D$:/online-compiler/c++work@tech/weather.cpp || cmake_object_order_depends_target_weather
+  DEP_FILE = CMakeFiles\weather.dir\weather.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\weather.dir
+  OBJECT_FILE_DIR = CMakeFiles\weather.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target weather
+
+
+#############################################
+# Link the executable weather.exe
+
+build weather.exe: CXX_EXECUTABLE_LINKER__weather_Debug CMakeFiles/weather.dir/weather.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\weather.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = weather.exe
+  TARGET_IMPLIB = libweather.dll.a
+  TARGET_PDB = weather.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target HighFever
+
+
+#############################################
+# Order-only phony target for HighFever
+
+build cmake_object_order_depends_target_HighFever: phony || CMakeFiles/HighFever.dir
+
+build CMakeFiles/HighFever.dir/HighFever.cpp.obj: CXX_COMPILER__HighFever_Debug D$:/online-compiler/c++work@tech/HighFever.cpp || cmake_object_order_depends_target_HighFever
+  DEP_FILE = CMakeFiles\HighFever.dir\HighFever.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\HighFever.dir
+  OBJECT_FILE_DIR = CMakeFiles\HighFever.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HighFever
+
+
+#############################################
+# Link the executable HighFever.exe
+
+build HighFever.exe: CXX_EXECUTABLE_LINKER__HighFever_Debug CMakeFiles/HighFever.dir/HighFever.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HighFever.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = HighFever.exe
+  TARGET_IMPLIB = libHighFever.dll.a
+  TARGET_PDB = HighFever.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D D:\Online-Compiler\c++work@tech\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D D:\online-compiler\c++work@tech\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -1079,7 +1376,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D D:\Online-Compiler\c++work@tech\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.1\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SD:\Online-Compiler\c++work@tech -BD:\Online-Compiler\c++work@tech\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D D:\online-compiler\c++work@tech\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.1\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SD:\online-compiler\c++work@tech -BD:\online-compiler\c++work@tech\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -1097,15 +1394,23 @@ build 7up7down: phony 7up7down.exe
 
 build AjacentZeroes: phony AjacentZeroes.exe
 
+build BaseSalary: phony BaseSalary.exe
+
 build DigitSum: phony DigitSum.exe
 
 build DivisibleBySix: phony DivisibleBySix.exe
 
 build Factorial: phony Factorial.exe
 
+build Fibonacci: phony Fibonacci.exe
+
 build FileHandling: phony FileHandling.exe
 
+build Guess: phony Guess.exe
+
 build HappyBirthday: phony HappyBirthday.exe
+
+build HighFever: phony HighFever.exe
 
 build Leader: phony Leader.exe
 
@@ -1123,6 +1428,8 @@ build ReverseArr: phony ReverseArr.exe
 
 build Sort: phony Sort.exe
 
+build Sorted: phony Sorted.exe
+
 build SquareNum: phony SquareNum.exe
 
 build SquareSum: phony SquareSum.exe
@@ -1133,11 +1440,17 @@ build Student: phony Student.exe
 
 build StudentRecord: phony StudentRecord.exe
 
+build Swap: phony Swap.exe
+
 build Table: phony Table.exe
 
 build TemperatureConversion: phony TemperatureConversion.exe
 
+build ToggleCase: phony ToggleCase.exe
+
 build Triangle: phony Triangle.exe
+
+build UpperCase: phony UpperCase.exe
 
 build Vowels: phony Vowels.exe
 
@@ -1149,6 +1462,8 @@ build reverse: phony reverse.exe
 
 build star2: phony star2.exe
 
+build weather: phony weather.exe
+
 build wordinsentence: phony wordinsentence.exe
 
 # =============================================================================
@@ -1157,9 +1472,9 @@ build wordinsentence: phony wordinsentence.exe
 # =============================================================================
 
 #############################################
-# Folder: D:/Online-Compiler/c++work@tech/cmake-build-debug
+# Folder: D:/online-compiler/c++work@tech/cmake-build-debug
 
-build all: phony PrintDigits.exe practice.exe DivisibleBySix.exe TemperatureConversion.exe 7up7down.exe Triangle.exe HappyBirthday.exe 1characterLine.exe reverse.exe 2CharacterLine.exe palindrome.exe Table.exe Star.exe star2.exe Vowels.exe SquareSum.exe MidElement.exe Leader.exe wordinsentence.exe SquareNum.exe Pastries.exe NotDivisible.exe DigitSum.exe Sort.exe FileHandling.exe Student.exe AjacentZeroes.exe Percentage.exe Factorial.exe ReverseArr.exe StudentRecord.exe
+build all: phony PrintDigits.exe practice.exe DivisibleBySix.exe TemperatureConversion.exe 7up7down.exe Triangle.exe HappyBirthday.exe 1characterLine.exe reverse.exe 2CharacterLine.exe palindrome.exe Table.exe Star.exe star2.exe Vowels.exe SquareSum.exe MidElement.exe Leader.exe wordinsentence.exe SquareNum.exe Pastries.exe NotDivisible.exe DigitSum.exe Sort.exe FileHandling.exe Student.exe AjacentZeroes.exe Percentage.exe Factorial.exe ReverseArr.exe StudentRecord.exe BaseSalary.exe Fibonacci.exe UpperCase.exe ToggleCase.exe Sorted.exe Swap.exe Guess.exe weather.exe HighFever.exe
 
 # =============================================================================
 # Built-in targets
