@@ -53,3 +53,22 @@ A
 StudentRecord.cpp,b\3\b3de023bea8aa3b81895fba3c6c8b0fcb29d535f
 =
 Factorial.cpp,5\5\55f4f4b1daa593306b134c7193569c1828786ab1
+>
+BaseSalary.cpp,6\3\63d6a833bbf0eb421568d4611eec0c04fd41e2f5
+=
+Fibonacci.cpp,7\0\70433308b25a39466812deb8d98a033a655377f6
+=
+UpperCase.cpp,6\b\6b0d9ef69fdcb4428410f2768d7fbf8254a21b57
+>
+ToggleCase.cpp,f\2\f261fe0151df8582fd5c7dddb8bd74978f0ae6db
+:
+
+Sorted.cpp,2\4\24694c9c7d7f4b9608c9a69710cbc516661f8b2a
+8
+Swap.cpp,d\b\dba3e2479f8d0d554733e66f47595b145d5b4a2b
+9
+	Guess.cpp,8\7\87e77c4715fccd87da2ec24d78acfe3140551eef
+;
+weather.cpp,4\0\403c649512551b28bff6b973e9cd90a22e3deab7
+=
+HighFever.cpp,d\6\d6d2bbbfaa9a3f0ab3cb3e3339aef1a2497f397a
