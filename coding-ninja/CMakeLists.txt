@@ -4,3 +4,4 @@ project(coding_ninja)
 set(CMAKE_CXX_STANDARD 11)
 
 add_executable(coding_ninja main.cpp)
+add_executable(NinjaCompetition NinjaCompetition.cpp)

@@ -15,7 +15,8 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -30,12 +31,20 @@
 					"name" : "coding_ninja",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
 			"targets" : 
 			[
+				{
+					"directoryIndex" : 0,
+					"id" : "NinjaCompetition::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NinjaCompetition-Debug-bcd41d2a80990827a381.json",
+					"name" : "NinjaCompetition",
+					"projectIndex" : 0
+				},
 				{
 					"directoryIndex" : 0,
 					"id" : "coding_ninja::@6890427a1f51a3e7e1df",
@@ -49,8 +58,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/C-Online-Compiler/coding-ninja/cmake-build-debug",
-		"source" : "D:/C-Online-Compiler/coding-ninja"
+		"build" : "D:/online-compiler/coding-ninja/cmake-build-debug",
+		"source" : "D:/online-compiler/coding-ninja"
 	},
 	"version" : 
 	{
