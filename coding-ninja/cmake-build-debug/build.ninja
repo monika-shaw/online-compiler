@@ -106,6 +106,39 @@ build NinjaCompetition.exe: CXX_EXECUTABLE_LINKER__NinjaCompetition_Debug CMakeF
   TARGET_IMPLIB = libNinjaCompetition.dll.a
   TARGET_PDB = NinjaCompetition.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target SumOfEvenOdd
+
+
+#############################################
+# Order-only phony target for SumOfEvenOdd
+
+build cmake_object_order_depends_target_SumOfEvenOdd: phony || CMakeFiles/SumOfEvenOdd.dir
+
+build CMakeFiles/SumOfEvenOdd.dir/SumOfEvenOdd.cpp.obj: CXX_COMPILER__SumOfEvenOdd_Debug D$:/online-compiler/coding-ninja/SumOfEvenOdd.cpp || cmake_object_order_depends_target_SumOfEvenOdd
+  DEP_FILE = CMakeFiles\SumOfEvenOdd.dir\SumOfEvenOdd.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\SumOfEvenOdd.dir
+  OBJECT_FILE_DIR = CMakeFiles\SumOfEvenOdd.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target SumOfEvenOdd
+
+
+#############################################
+# Link the executable SumOfEvenOdd.exe
+
+build SumOfEvenOdd.exe: CXX_EXECUTABLE_LINKER__SumOfEvenOdd_Debug CMakeFiles/SumOfEvenOdd.dir/SumOfEvenOdd.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\SumOfEvenOdd.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = SumOfEvenOdd.exe
+  TARGET_IMPLIB = libSumOfEvenOdd.dll.a
+  TARGET_PDB = SumOfEvenOdd.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -134,6 +167,8 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build NinjaCompetition: phony NinjaCompetition.exe
 
+build SumOfEvenOdd: phony SumOfEvenOdd.exe
+
 build coding_ninja: phony coding_ninja.exe
 
 # =============================================================================
@@ -144,7 +179,7 @@ build coding_ninja: phony coding_ninja.exe
 #############################################
 # Folder: D:/online-compiler/coding-ninja/cmake-build-debug
 
-build all: phony coding_ninja.exe NinjaCompetition.exe
+build all: phony coding_ninja.exe NinjaCompetition.exe SumOfEvenOdd.exe
 
 # =============================================================================
 # Built-in targets

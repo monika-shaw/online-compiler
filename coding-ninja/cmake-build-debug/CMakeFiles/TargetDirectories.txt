@@ -1,4 +1,5 @@
 D:/online-compiler/coding-ninja/cmake-build-debug/CMakeFiles/coding_ninja.dir
 D:/online-compiler/coding-ninja/cmake-build-debug/CMakeFiles/NinjaCompetition.dir
+D:/online-compiler/coding-ninja/cmake-build-debug/CMakeFiles/SumOfEvenOdd.dir
 D:/online-compiler/coding-ninja/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/online-compiler/coding-ninja/cmake-build-debug/CMakeFiles/rebuild_cache.dir

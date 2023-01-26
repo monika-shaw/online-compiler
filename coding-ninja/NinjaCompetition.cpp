@@ -1,48 +1,42 @@
-//
-// Created by shawm on 24-01-2023.
-//
 #include <iostream>
+#include <list>
+#include <cmath>
 
-using namespace std;
-
-bool isPossible(int n)
-{
-    int even = 0, odd = 0;
-    for(int i = 1; i <= n; i++)
-    {
-      if(n % i == 0)
-       {
-          cout << i << " ";
-          if(i % 2 == 0)
-            {
-              even++;
-            }
-          else
-            {
-              odd++;
-            }
-       }
+// Big O(sqrt(n))
+bool getFactors(int n) {
+    std::list<int> factors;
+    for (int i = 1; i <= sqrt(n); i++) {
+        int residuo = n % i;
+        if (residuo == 0) {
+            int b = n / i;
+            factors.push_back(i);
+            // Add only once if b is sqrt of n, eg 36, 6x6
+            if (b != sqrt(n))
+                factors.push_back(b);
+        }
     }
-
-    cout <<"count are" << endl;
-    cout << even << odd << endl;
+    int even = 0, odd = 0;
+    for (int i: factors) {
+        if(i % 2 == 0)
+            even++;
+        else
+            odd++;
+    }
+    std::cout<<even<<odd<<std::endl;
     if(even == odd)
-      {
-          return true;
-      }
+        return true;
     else
-      {
-          return false;
-      }
+        return false;
 }
 
-int main()
-{
-    int num;
-    cout << "enter num";
-    cin>>num;
-    bool result;
-    result = isPossible(num);
-    cout <<result;
-}
+int main() {
+    int number;
+    std::cout << "Ingresa el número" << std::endl;
+    std::cin >> number;
+    std::cout << "factores:" << std::endl;
+    bool factors = getFactors(number);
 
+    std::cout << factors << std::endl;
+
+    return 0;
+}

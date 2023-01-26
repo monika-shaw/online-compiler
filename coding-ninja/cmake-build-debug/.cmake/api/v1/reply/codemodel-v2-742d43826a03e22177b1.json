@@ -16,7 +16,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -32,7 +33,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -43,6 +45,13 @@
 					"id" : "NinjaCompetition::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-NinjaCompetition-Debug-bcd41d2a80990827a381.json",
 					"name" : "NinjaCompetition",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SumOfEvenOdd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SumOfEvenOdd-Debug-35545a4912aca844742c.json",
+					"name" : "SumOfEvenOdd",
 					"projectIndex" : 0
 				},
 				{
