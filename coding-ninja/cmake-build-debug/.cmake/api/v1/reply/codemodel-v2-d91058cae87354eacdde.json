@@ -17,7 +17,9 @@
 					[
 						0,
 						1,
-						2
+						2,
+						3,
+						4
 					]
 				}
 			],
@@ -34,7 +36,9 @@
 					[
 						0,
 						1,
-						2
+						2,
+						3,
+						4
 					]
 				}
 			],
@@ -45,6 +49,20 @@
 					"id" : "NinjaCompetition::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-NinjaCompetition-Debug-bcd41d2a80990827a381.json",
 					"name" : "NinjaCompetition",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NthRoot::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NthRoot-Debug-55acaac9a98626b5f87f.json",
+					"name" : "NthRoot",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SquareRoot::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SquareRoot-Debug-dcd87b8ff8baec9a1cfc.json",
+					"name" : "SquareRoot",
 					"projectIndex" : 0
 				},
 				{

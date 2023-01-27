@@ -139,6 +139,72 @@ build SumOfEvenOdd.exe: CXX_EXECUTABLE_LINKER__SumOfEvenOdd_Debug CMakeFiles/Sum
   TARGET_IMPLIB = libSumOfEvenOdd.dll.a
   TARGET_PDB = SumOfEvenOdd.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target NthRoot
+
+
+#############################################
+# Order-only phony target for NthRoot
+
+build cmake_object_order_depends_target_NthRoot: phony || CMakeFiles/NthRoot.dir
+
+build CMakeFiles/NthRoot.dir/NthRoot.cpp.obj: CXX_COMPILER__NthRoot_Debug D$:/online-compiler/coding-ninja/NthRoot.cpp || cmake_object_order_depends_target_NthRoot
+  DEP_FILE = CMakeFiles\NthRoot.dir\NthRoot.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\NthRoot.dir
+  OBJECT_FILE_DIR = CMakeFiles\NthRoot.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target NthRoot
+
+
+#############################################
+# Link the executable NthRoot.exe
+
+build NthRoot.exe: CXX_EXECUTABLE_LINKER__NthRoot_Debug CMakeFiles/NthRoot.dir/NthRoot.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\NthRoot.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = NthRoot.exe
+  TARGET_IMPLIB = libNthRoot.dll.a
+  TARGET_PDB = NthRoot.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target SquareRoot
+
+
+#############################################
+# Order-only phony target for SquareRoot
+
+build cmake_object_order_depends_target_SquareRoot: phony || CMakeFiles/SquareRoot.dir
+
+build CMakeFiles/SquareRoot.dir/SquareRoot.cpp.obj: CXX_COMPILER__SquareRoot_Debug D$:/online-compiler/coding-ninja/SquareRoot.cpp || cmake_object_order_depends_target_SquareRoot
+  DEP_FILE = CMakeFiles\SquareRoot.dir\SquareRoot.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\SquareRoot.dir
+  OBJECT_FILE_DIR = CMakeFiles\SquareRoot.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target SquareRoot
+
+
+#############################################
+# Link the executable SquareRoot.exe
+
+build SquareRoot.exe: CXX_EXECUTABLE_LINKER__SquareRoot_Debug CMakeFiles/SquareRoot.dir/SquareRoot.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\SquareRoot.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = SquareRoot.exe
+  TARGET_IMPLIB = libSquareRoot.dll.a
+  TARGET_PDB = SquareRoot.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -167,6 +233,10 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build NinjaCompetition: phony NinjaCompetition.exe
 
+build NthRoot: phony NthRoot.exe
+
+build SquareRoot: phony SquareRoot.exe
+
 build SumOfEvenOdd: phony SumOfEvenOdd.exe
 
 build coding_ninja: phony coding_ninja.exe
@@ -179,7 +249,7 @@ build coding_ninja: phony coding_ninja.exe
 #############################################
 # Folder: D:/online-compiler/coding-ninja/cmake-build-debug
 
-build all: phony coding_ninja.exe NinjaCompetition.exe SumOfEvenOdd.exe
+build all: phony coding_ninja.exe NinjaCompetition.exe SumOfEvenOdd.exe NthRoot.exe SquareRoot.exe
 
 # =============================================================================
 # Built-in targets
