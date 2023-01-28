@@ -19,7 +19,8 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5
 					]
 				}
 			],
@@ -38,7 +39,8 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5
 					]
 				}
 			],
@@ -70,6 +72,13 @@
 					"id" : "SumOfEvenOdd::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-SumOfEvenOdd-Debug-35545a4912aca844742c.json",
 					"name" : "SumOfEvenOdd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SumOfMaxMin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SumOfMaxMin-Debug-77a7c9d8fa662bec7559.json",
+					"name" : "SumOfMaxMin",
 					"projectIndex" : 0
 				},
 				{

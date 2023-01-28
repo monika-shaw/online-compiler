@@ -205,6 +205,39 @@ build SquareRoot.exe: CXX_EXECUTABLE_LINKER__SquareRoot_Debug CMakeFiles/SquareR
   TARGET_IMPLIB = libSquareRoot.dll.a
   TARGET_PDB = SquareRoot.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target SumOfMaxMin
+
+
+#############################################
+# Order-only phony target for SumOfMaxMin
+
+build cmake_object_order_depends_target_SumOfMaxMin: phony || CMakeFiles/SumOfMaxMin.dir
+
+build CMakeFiles/SumOfMaxMin.dir/SumOfMaxMin.cpp.obj: CXX_COMPILER__SumOfMaxMin_Debug D$:/online-compiler/coding-ninja/SumOfMaxMin.cpp || cmake_object_order_depends_target_SumOfMaxMin
+  DEP_FILE = CMakeFiles\SumOfMaxMin.dir\SumOfMaxMin.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\SumOfMaxMin.dir
+  OBJECT_FILE_DIR = CMakeFiles\SumOfMaxMin.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target SumOfMaxMin
+
+
+#############################################
+# Link the executable SumOfMaxMin.exe
+
+build SumOfMaxMin.exe: CXX_EXECUTABLE_LINKER__SumOfMaxMin_Debug CMakeFiles/SumOfMaxMin.dir/SumOfMaxMin.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\SumOfMaxMin.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = SumOfMaxMin.exe
+  TARGET_IMPLIB = libSumOfMaxMin.dll.a
+  TARGET_PDB = SumOfMaxMin.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -239,6 +272,8 @@ build SquareRoot: phony SquareRoot.exe
 
 build SumOfEvenOdd: phony SumOfEvenOdd.exe
 
+build SumOfMaxMin: phony SumOfMaxMin.exe
+
 build coding_ninja: phony coding_ninja.exe
 
 # =============================================================================
@@ -249,7 +284,7 @@ build coding_ninja: phony coding_ninja.exe
 #############################################
 # Folder: D:/online-compiler/coding-ninja/cmake-build-debug
 
-build all: phony coding_ninja.exe NinjaCompetition.exe SumOfEvenOdd.exe NthRoot.exe SquareRoot.exe
+build all: phony coding_ninja.exe NinjaCompetition.exe SumOfEvenOdd.exe NthRoot.exe SquareRoot.exe SumOfMaxMin.exe
 
 # =============================================================================
 # Built-in targets
