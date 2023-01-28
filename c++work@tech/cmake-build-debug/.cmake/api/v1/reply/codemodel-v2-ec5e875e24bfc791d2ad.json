@@ -1,0 +1,411 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "c__work_tech",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1characterLine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1characterLine-Debug-dfdb81c094239ea15439.json",
+					"name" : "1characterLine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2CharacterLine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2CharacterLine-Debug-7ff28c50e13d3b7ea009.json",
+					"name" : "2CharacterLine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7up7down::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7up7down-Debug-d34daff9bda3a3b25b9e.json",
+					"name" : "7up7down",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AjacentZeroes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AjacentZeroes-Debug-2ed8e76c44a5bf01da62.json",
+					"name" : "AjacentZeroes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BaseSalary::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BaseSalary-Debug-c5e3e22833869cbb486c.json",
+					"name" : "BaseSalary",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DigitSum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DigitSum-Debug-bab21432e00776dc8791.json",
+					"name" : "DigitSum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DivisibleBySix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DivisibleBySix-Debug-5f8df31550adafbf8acb.json",
+					"name" : "DivisibleBySix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Factorial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Factorial-Debug-a124510aecd44c53df36.json",
+					"name" : "Factorial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fibonacci::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fibonacci-Debug-a194edc5b407b9b14073.json",
+					"name" : "Fibonacci",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FileHandling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FileHandling-Debug-0eda8296ac13fbd068a0.json",
+					"name" : "FileHandling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Guess::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Guess-Debug-59463002f1fe6a9e898f.json",
+					"name" : "Guess",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HappyBirthday::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HappyBirthday-Debug-58b36931ba60ae8a134d.json",
+					"name" : "HappyBirthday",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HighFever::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HighFever-Debug-5a0b2f809ecd3e5d3d83.json",
+					"name" : "HighFever",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Leader::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Leader-Debug-39461b45c89b93538b68.json",
+					"name" : "Leader",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MidElement::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MidElement-Debug-f64dcb7d2c6c27daa933.json",
+					"name" : "MidElement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NotDivisible::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NotDivisible-Debug-0da9a7193215f356a40a.json",
+					"name" : "NotDivisible",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Pastries::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pastries-Debug-cb26d4ccec05f177d9a9.json",
+					"name" : "Pastries",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Percentage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Percentage-Debug-23cbfd6371858a5c133d.json",
+					"name" : "Percentage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PrintDigits::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PrintDigits-Debug-eb8c8f0f29dcdca8398e.json",
+					"name" : "PrintDigits",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ReverseArr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ReverseArr-Debug-30cfb0bd0d358f0f655b.json",
+					"name" : "ReverseArr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sort-Debug-58b3ed0c504c2f2f51f0.json",
+					"name" : "Sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Sorted::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sorted-Debug-a4338150e67bfcd01681.json",
+					"name" : "Sorted",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SquareNum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SquareNum-Debug-6f791da4a8169357d3b0.json",
+					"name" : "SquareNum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SquareSum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SquareSum-Debug-63d0ad1cbaeb5e17056f.json",
+					"name" : "SquareSum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Star::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Star-Debug-0a2acf1b47da8ecc72df.json",
+					"name" : "Star",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Student::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Student-Debug-4348742314ec2b952ac2.json",
+					"name" : "Student",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StudentRecord::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StudentRecord-Debug-5b931f4b2832e27e931d.json",
+					"name" : "StudentRecord",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Swap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Swap-Debug-1e895657eef5d05eaf54.json",
+					"name" : "Swap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Table::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Table-Debug-d03cbe36347e758874d8.json",
+					"name" : "Table",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TemperatureConversion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TemperatureConversion-Debug-31f918b61e07b95e9b60.json",
+					"name" : "TemperatureConversion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ToggleCase::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ToggleCase-Debug-179b301669a1f9163167.json",
+					"name" : "ToggleCase",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Triangle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Triangle-Debug-dec76770eac3b7a9a323.json",
+					"name" : "Triangle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UpperCase::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UpperCase-Debug-eba5e001df07fa017b2b.json",
+					"name" : "UpperCase",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Vowels::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Vowels-Debug-ceb6b71e3f09bc202ffe.json",
+					"name" : "Vowels",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "palindrome::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-palindrome-Debug-56ba43c1718669906a0a.json",
+					"name" : "palindrome",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "practice::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-practice-Debug-5bd682d2c78dfc4cb429.json",
+					"name" : "practice",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reverse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reverse-Debug-2409a500b3b915f4675d.json",
+					"name" : "reverse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "star2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-star2-Debug-6ba72c9d33527610910e.json",
+					"name" : "star2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "weather::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-weather-Debug-16b6483be045ccea58c2.json",
+					"name" : "weather",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "wordinsentence::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wordinsentence-Debug-c7870c32d14f9053f83a.json",
+					"name" : "wordinsentence",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/online-compiler/c++work@tech/cmake-build-debug",
+		"source" : "D:/online-compiler/c++work@tech"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
